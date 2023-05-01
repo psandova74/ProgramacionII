@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;ar.edu.unlam.pb2.biblioteca.OrdenadorPorTitulo&apos; to &apos;OrdenadorPorTituloDescendente&apos;&#x0D;&#x0A;- Original project: &apos;BibliotecaP&apos;&#x0D;&#x0A;- Original element: &apos;ar.edu.unlam.pb2.biblioteca.OrdenadorPorTitulo&apos;&#x0D;&#x0A;- Renamed element: &apos;ar.edu.unlam.pb2.biblioteca.OrdenadorPorTituloDescendente&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;OrdenadorPorTitulo&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;ar.edu.unlam.pb2.biblioteca{OrdenadorPorTitulo.java[OrdenadorPorTitulo" matchStrategy="1" name="OrdenadorPorTituloDescendente" qualified="false" references="true" similarDeclarations="false" stamp="1668740166618" textual="false" version="1.0"/>
+</session>

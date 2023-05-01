@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move element &apos;Bar.java&apos; to &apos;PB2Bar/src/pb2.unlam.edu.ar&apos;&#x0D;&#x0A;- Original project: &apos;PB2Bar&apos;&#x0D;&#x0A;- Destination element: &apos;PB2Bar/src/pb2.unlam.edu.ar&apos;&#x0D;&#x0A;- Original element: &apos;pb2.unlam.edu.ar.Bar.java&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move compilation unit" destination="/src&lt;pb2.unlam.edu.ar" element1="/test&lt;pb2.unlam.edu.ar{Bar.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" patterns="*" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1668955489236" units="1" version="1.0"/>
+</session>

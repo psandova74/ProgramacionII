@@ -1,0 +1,12 @@
+package ar.edu.unlam.pb2.biblioteca;
+
+import java.util.Comparator;
+
+public class OrdenadorPorAnioPublicacion implements Comparator<Libro> {
+
+	@Override
+	public int compare(Libro libro, Libro otroLibro) {
+        return libro.getAnioPublicacion().compareTo(otroLibro.getAnioPublicacion());
+    }
+
+}

@@ -1,0 +1,14 @@
+package SalaDeCine;
+
+import ar.edu.unlam.pb1.parcial2.Jugador;
+
+public class SalaDeCine {
+	private final Integer MAXIMO_DE_FILAS;
+	private final Integer MAXIMO_DE_LINEAS;
+	private SalaDeCine saldaDeCine[];
+
+	public SalaDeCine() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

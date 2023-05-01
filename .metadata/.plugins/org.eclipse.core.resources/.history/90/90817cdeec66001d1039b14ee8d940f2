@@ -1,0 +1,10 @@
+package ar.edu.unlam.pb2.biblioteca;
+
+import java.util.Comparator;
+
+public class OrdenadorPorAutor implements Comparator<Libro>{
+	
+	public int compare(Libro libro, Libro otroLibro) {
+        return libro.getAutor().compareTo(otroLibro.getAutor());
+    }
+}

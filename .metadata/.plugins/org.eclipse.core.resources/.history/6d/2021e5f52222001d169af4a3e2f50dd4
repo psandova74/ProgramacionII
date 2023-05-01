@@ -1,0 +1,25 @@
+package SalaDeCine;
+
+import ar.edu.unlam.pb1.parcial2.Jugador;
+
+public class SalaDeCine {
+	private final Integer MAXIMO_DE_FILAS;
+	private final Integer MAXIMO_DE_BUTACAS;
+	private SalaDeCine salaDeCine[];
+
+	public SalaDeCine(Integer maximoDeFilas, Integer maximoDeButacas) {
+		MAXIMO_DE_FILAS=maximoDeFilas;
+		MAXIMO_DE_BUTACAS=maximoDeButacas;
+		salaDeCine=new SalaDeCine(maximoDeFilas,maximoDeButacas);
+		
+	}
+	
+	public void inicializarSalaDeCine() {
+		for (int i=0;i<MAXIMO_DE_FILAS;i++) {
+			for (int j=0;j<MAXIMO_DE_BUTACAS;j++) {
+				salaDeCine[i][j]=0;
+			}	
+		}
+	}
+
+}

@@ -1,0 +1,45 @@
+package ar.edu.unlam.pb2.biblioteca;
+
+import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.List;
+import java.util.Map;
+import java.util.Set;
+import java.util.TreeMap;
+import java.util.TreeSet;
+
+
+
+
+public class BibliotecaPopular implements Comparable<Libro> {
+	TreeMap<Integer,Libro> libros = new TreeMap<Integer,Libro>();
+	
+	public Integer cantidadLibros() {
+		return libros.size();
+	}
+		
+	public void agregarLibro(Libro nuevoLibro) {
+		
+		libros.put(libros.size()+1, nuevoLibro);
+	}
+
+	
+	public Map<Genero,Integer> armarListaPorTitulo(List<Libro> agregarLibros) {
+	
+		Map<Genero,Integer> librosPorTitulo = new HashMap<Genero, Integer>();
+		for (Libro libro : agregarLibros) {
+			this.agregarLibro(libro);
+		}		
+		return librosPorTitulo;
+	}
+	
+	public Map<Genero,Integer> armarListaPorAutor(List<Libro> agregarLibros) {
+		
+		Map<Integer,Libro> librosPorTitulo = new HashMap<Integer, Libro>(new OrdenadorPorAutor());
+		for (Libro libro : agregarLibros) {
+			this.agregarLibro(libro);
+		}		
+		return librosPorTitulo;
+	}
+	
+}

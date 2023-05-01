@@ -1,0 +1,9 @@
+package SalaDeCine;
+
+public class SalaDeCine {
+
+	public SalaDeCine() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

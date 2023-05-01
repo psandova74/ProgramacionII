@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="SmartImportWizard">
+		<item key="SmartImportRootWizardPage.STORE_HIDE_ALREADY_OPEN" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_CLOSE_IMPORTED" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
+		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
+		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="C:\aJava\ProgramacionII\PB2SegurosII"/>
+			<item value="C:\aJava\ProgramacionII\PBII20211QParcial2ApellidoNombre"/>
+			<item value="C:\aJava\ProgramacionII\CyberSecurity-master"/>
+			<item value="C:\aJava\ProgramacionII\PBII20221QParcial2SantamariaFlorencia"/>
+			<item value="C:\aJava\ProgramacionII\MetodosColecciones"/>
+			<item value="C:\aJava\ProgramacionII\TableroKanban"/>
+			<item value="C:\aJava\ProgramacionII\CarritoDeCompras-master"/>
+			<item value="C:\aJava\ProgramacionII\PBIISegurosNari"/>
+			<item value="C:\aJava\ProgramacionII\Proyecto"/>
+			<item value="C:\aJava\ProgramacionII\clasepbdos"/>
+			<item value="C:\aJava\Programacion-Basica-2-master\Programacion-Basica-2-master\Transporte"/>
+			<item value="C:\aJava\Programacion-Basica-2-master\Programacion-Basica-2-master\TorneoDeFutnol"/>
+			<item value="C:\aJava\Programacion-Basica-2-master\Programacion-Basica-2-master\Marvel"/>
+			<item value="C:\aJava\Programacion-Basica-2-master\Programacion-Basica-2-master\ProgramacionBasica2"/>
+			<item value="C:\aJava\Programacion-Basica-2-master\Programacion-Basica-2-master\CompraGamer"/>
+			<item value="C:\Users\patri\Downloads\Cuentas_Bancarias_Herencia_Colecciones_1"/>
+			<item value="C:\aJava\WorkSpace"/>
+		</list>
+	</section>
+	<section name="SaveAsDialogSettings">
+		<item key="DIALOG_X_ORIGIN" value="619"/>
+		<item key="DIALOG_Y_ORIGIN" value="119"/>
+		<item key="DIALOG_WIDTH" value="700"/>
+		<item key="DIALOG_HEIGHT" value="645"/>
+		<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
+	</section>
+	<section name="ExternalProjectImportWizard">
+		<item key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_CLOSE_CREATED_PROJECTS_ID" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_HIDE_CONFLICTING_PROJECTS_ID" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_NESTED_PROJECTS" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID" value="false"/>
+		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="C:\aJava\WorkSpace\PBIIEjemploSegundoParcial"/>
+			<item value="C:\aJava\WorkSpace\eva03-master"/>
+			<item value="C:\aJava\WorkSpace\recuperatorio-master"/>
+			<item value="C:\aJava\WorkSpace\SmartWatchs-master\SmartWatchs-master\SmartWatch"/>
+			<item value="C:\aJava\WorkSpace\SmartWatchs-master"/>
+			<item value="C:\aJava\WorkSpace\laboratorio-master"/>
+			<item value="C:\Users\patri\Downloads\laboratorio-master"/>
+			<item value="C:\Users\patri\Downloads\programacionBasicaI-master"/>
+			<item value="C:\Users\patri\Downloads\SmartWatchs-master"/>
+			<item value="C:\Users\patri\Downloads\recuperatorio-master"/>
+			<item value="C:\Users\patri\Downloads\CuentasBancariasTest"/>
+			<item value="C:\Users\patri\Documents\ProgramacionII\Pb2tn20222c"/>
+			<item value="C:\Users\patri\Downloads\40886574-OcampoJimena (1)\PB12022Q1Parcial2OcampoJimena"/>
+			<item value="C:\Users\patri\Downloads\40886574-OcampoJimena\PB12022Q1Parcial2OcampoJimena"/>
+			<item value="C:\Users\patri\Downloads\2022---Primer-Cuatrimestre---Turno-Noche---Segundo-Parcial\PBI - 2021 - Segundo Parcial"/>
+			<item value="C:\Users\patri\Downloads\El verde ensaladas"/>
+			<item value="C:\aJava\WorkSpace\Programacion\TrabajosPracticos"/>
+		</list>
+		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
+			<item value=""/>
+			<item value="C:\Users\patri\Downloads\Callcenter\PBI - 2021 - 2Q - Segundo Parcial.zip"/>
+		</list>
+	</section>
+	<section name="NewWizardAction">
+	</section>
+	<section name="ChooseWorkspaceDialogSettings">
+		<item key="DIALOG_X_ORIGIN" value="611"/>
+		<item key="DIALOG_Y_ORIGIN" value="299"/>
+	</section>
+	<section name="WORKBENCH_SETTINGS">
+		<list key="ENABLED_TRANSFERS">
+		</list>
+	</section>
+</section>
